@@ -1,4 +1,7 @@
 # TRUBA HPC - SLURM SCRIPT GENERATOR
+
+![Static Badge](https://img.shields.io/badge/Beni%20Oku-T%C3%BCrk%C3%A7e-green?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Faugalip%2Ftruba-hpc-slurm-generator%2Fblob%2Fmain%2FREADME.tr.md)
+
 In the domain of High Performance Computing (HPC), efficiency is key. However, creating Slurm scripts manually can be time-consuming and error-prone, especially when dealing with multiple clusters each with their own requirements.
 
 To address this, I've developed a Python script to automate the generation of Slurm scripts, making your workflow more efficient and reducing the risk of mistakes.
