@@ -15,6 +15,8 @@ With this tool, you can easily integrate it into your existing codebase and cust
 - Checks whether the requested job duration is inline with the maximum values defined by Truba. Also converts the invalid durations (eg. 0-00:15:75) to valid ones (eg. 0-00:16:15).
 - Checks whether the requested node count is smaller than the physical capacity of Truba, and corrects any mistakes.
 - Checks whether the requested core amount is inline with the requested node count and the selected cluster, and corrects any mistakes.
+- Inserts your exports (libraries, variables, etc.) and codes into the scripts.
+- Saves the resultant script(s) to a path of your selection.
 
 To - do (Probably in a distant future)
 - Check CUDA clusters GPU vs minimum core number conditions.
