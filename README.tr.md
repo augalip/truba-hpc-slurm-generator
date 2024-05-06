@@ -1,6 +1,6 @@
 # TRUBA HPC - SLURM BETİK OLUŞTURUCU
 
-![Static Badge](https://img.shields.io/badge/Beni%20Oku-T%C3%BCrk%C3%A7e-green?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Faugalip%2Ftruba-hpc-slurm-generator%2Fblob%2Fmain%2FREADME.tr.md)
+![Static Badge](https://img.shields.io/badge/ReadMe-English-blue?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Faugalip%2Ftruba-hpc-slurm-generator%2Fblob%2Fmain%2FREADME.tr.md)
 
 Yüksek Performanslı Hesaplama (HPC) alanında, verimlilik çok önemlidir. Ancak, özellikle kendi gereksinimleri olan birden çok küme ile karşı karşıya olunduğunda, Slurm betiklerini manuel olarak oluşturmak zaman alıcı ve hata yapmaya açıktır.
 
