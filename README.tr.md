@@ -15,6 +15,8 @@ Bu araçla, mevcut kod tabanınıza kolayca entegre edebilir ve ihtiyaçlarını
 - Talep edilen iş süresinin Truba tarafından tanımlanan maksimum değerlerle uyumlu olup olmadığını kontrol eder. Ayrıca, geçersiz süreleri (ör. 0-00:15:75) geçerli olanlara dönüştürür (ör. 0-00:16:15).
 - Talep edilen düğüm sayısının, Truba'nın fiziksel kapasitesinden küçük olup olmadığını kontrol eder ve herhangi bir hatayı düzeltir.
 - Talep edilen çekirdek sayısının, talep edilen düğüm sayısı ve seçilen kümeyle uyumlu olup olmadığını kontrol eder ve herhangi bir hatayı düzeltir.
+- Export olarak kullanacağınız kütüphane ve değişken adı gibi parametreler ile kodlarınızı betiğe işler.
+- Nihai betiği, sizin seçtiğiniz bir dizine kaydeder.
 
 (Muhtemelen oldukça uzun bir zaman içinde) Yapılacaklar:
 - CUDA kümeleri için GPU vs minimum çekirdek sayısı koşullarını kontrol etme.
