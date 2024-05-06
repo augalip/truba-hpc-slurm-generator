@@ -1,5 +1,8 @@
 # TRUBA HPC - SLURM BETİK OLUŞTURUCU
 
+https://img.shields.io/badge/Beni%20Oku-T%C3%BCrk%C3%A7e-green?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Faugalip%2Ftruba-hpc-slurm-generator%2Fblob%2Fmain%2FREADME.tr.md
+
+
 Yüksek Performanslı Hesaplama (HPC) alanında, verimlilik çok önemlidir. Ancak, özellikle kendi gereksinimleri olan birden çok küme ile karşı karşıya olunduğunda, Slurm betiklerini manuel olarak oluşturmak zaman alıcı ve hata yapmaya açıktır.
 
 Bunu ele almak için, Slurm betiklerinin otomatik oluşturulmasını sağlayan bir Python betiği geliştirdim, böylece iş akışınız daha verimli hale gelir ve hata riski azalır.
